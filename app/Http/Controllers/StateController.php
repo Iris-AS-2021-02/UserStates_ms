@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\models\State;//referencia al modelo de estado State
+use App\Models\State;//referencia al modelo de estado State
 use App\Http\Requests\CreateStateRequest;
 use App\Http\Requests\UpdateStateRequest;
 
